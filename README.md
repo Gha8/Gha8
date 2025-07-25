@@ -2,8 +2,8 @@
 
 Computer Science student at EFREI Paris & 42 Paris
 
-📚 Combining academic theory with hands-on practice
+A Combining academic theory with hands-on practice
 
-☕ Powered by coffee and curiosity
+Powered by coffee and curiosity ☕
 
-⚡ I debug with print statements (and I'm not ashamed!)
+I debug with print statements (and I'm not ashamed!)
