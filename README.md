@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm MON INGENIEUR</h1>
+<h1 align="center">Hello there 👋</h1>
 
 <p align="center">
   <em>Computer Science Student at <strong>EFREI Paris</strong> & <strong>42 Paris</strong></em>  
