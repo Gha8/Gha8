@@ -1,7 +1,8 @@
 <h1 align="center">Hello there 👋</h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Explorer;Debugging+Ninja;Powered+by+Coffee+☕;Learning+Machine+Learning...&center=true&width=380&height=45&font=Fira%20Code&pause=1000&color=38B2AC&vCenter=true&size=22" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 
@@ -18,3 +19,24 @@ I debug with print statements (and I'm not ashamed!)
 </p>
 
 ---
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Debugging+with+Print();Code+%2B+Coffee+%3D+Magic;Building+%7C+Breaking+%7C+Learning;Hidden+student+@42+%26+EFREI" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gha8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+
+```markdown
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
