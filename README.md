@@ -17,3 +17,5 @@ A Combining academic theory with hands-on practice
 Powered by coffee and curiosity ☕
 
 I debug with print statements (and I'm not ashamed!)
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" /> </p>
