@@ -5,7 +5,7 @@
     </td>
     <td align="left">
       <strong style="font-size:24px; color:#00bfff; font-family: 'Fira Code', monospace;">
-        Student Engineer @EFREI & @42 
+        Engineering Student @EFREI & @42 
         <br>  
       </strong>
       <br>
