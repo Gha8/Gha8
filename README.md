@@ -1,49 +1,52 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="left" width="200">
-      <img src="https://64.media.tumblr.com/eb0ff3d510cd1c6397b7cd8ec0a78a32/3f205e2cdfbaa58c-57/s1280x1920/c7d7191fff01c98d99b2ee3f88fe8511330c3d4b.gif" alt="inspirational quote" width="200" />
+    <td align="left" width="200" valign="top">
+      <img src="https://64.media.tumblr.com/eb0ff3d510cd1c6397b7cd8ec0a78a32/3f205e2cdfbaa58c-57/s1280x1920/c7d7191fff01c98d99b2ee3f88fe8511330c3d4b.gif" alt="coding-gif" width="200" style="border-radius: 10px;" />
     </td>
-    <td align="left">
-      <strong style="font-size:24px; color:#00bfff; font-family: 'Fira Code', monospace;">
-        Engineering Student @EFREI & @42 
-        <br>  
-      </strong>
-      <br>
-    <p align="center">
-  <strong>Code whisperer & bug hunter</strong> | Powered by ☕ caffeine & endless curiosity  
-  Bridging the gap between theory & practice — fueled by relentless debugging and passion for learning 💻  
-</p>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9kdHkxeGllaDJmbnZ0bDQ5Z3EyejM2ejYxcm1sbzFqNTZiYzg5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cO1uqpX9FkkBaOLSoS/giphy.gif" width= "100" />
-<p align="left" style="font-family: 'Fira Code', monospace;">
-    ▶️ <span style="color:#ff6600;">Version control:</span> <code>git commit -m "final fix v12 real final"</code> <br>
-  ▶️ <span style="color:#00ff99;">Still debugging with</span> <code>printf()</code> <span style="color:#888">— not ashamed             </span>
-</p>
-
-<img alig="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=FF0000&center=true&vCenter=true&width=600&lines=if%20%28%21coffee%29%20throw%20new%20Error%28%27System%20shutdown%27%29%3B" />
+    <td align="left" valign="top">
+      <h1 style="font-family: 'Fira Code', monospace; color: #00bfff;">Engineering Student @EFREI & @42</h1>
+      <p>
+        Passionné par le <b>développement backend</b> et l'<b>architecture système</b>.<br>
+        Combinaison de rigueur académique et d'apprentissage par projets intensifs.
+      </p>
+      <blockquote>
+        🚀 <b>Current Project:</b> Developing <b>ft_transcendence</b> (NestJS, PostgreSQL, React, Docker)<br>
+        ⚙️ <b>Interests:</b> Microservices, Cloud Infrastructure, CI/CD, & System Security
+      </blockquote>
+      <p>
+        • Focused on writing clean and scalable code.<br>
+        • Experienced in C/C++, TypeScript, and DevOps automation.
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
+<h3 align="center">$ ls ./skills/</h3>
+
 <p align="center">
-  <strong style="font-size:20px; color:#39FF14; font-family: 'Fira Code', monospace;">
-    $ tech-stack --list
-  </strong>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" />
 </p>
