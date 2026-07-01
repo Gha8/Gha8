@@ -19,7 +19,7 @@ jobs:
         with:
           card: top-langs
           options: username=Gha8&layout=compact&theme=vision-dark
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           path: top-langs.svg
 
       - name: Commit and Push changes
