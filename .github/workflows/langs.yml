@@ -1,27 +1,27 @@
-name: GitHub-Readme-Stats
+name: Update README cards
 
 on:
   schedule:
-    # Runs every 24 hours automatically
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch: # Allows you to run it manually
 
 jobs:
-  stats:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to let the runner save the image file to your repo
     steps:
-      - name: Generate Language Stats Card
-        uses: anuraghazra/github-readme-stats@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          # This token is built into GitHub actions automatically
+          card: top-langs
+          options: username=Gha8&layout=compact&theme=vision-dark
           token: ${{ secrets.GITHUB_TOKEN }}
-          username: Gha8
-          type: langs
-          card_width: 450
-          # Optional formatting parameters
-          layout: compact
-          theme: vision-dark
-          
+          path: top-langs.svg # Saves it right to your root directory
+
       - name: Deploy to repository
         uses: mikeal/publish-to-github-action@master
         env:
