@@ -35,3 +35,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gha8&theme=tokyonight&hide_border=true&background=0d1117&sideNums=00bfff&stroke=00bfff" alt="GitHub Streak" height="120" />
 </p>
+
+![My Top Languages](./github-readme-stats.svg)
