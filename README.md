@@ -30,7 +30,5 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,nestjs,react,postgres,linux,docker,kubernetes,terraform,aws,ansible,git&theme=dark" alt="My DevOps Stack" />
 </p>
 
----
-
 
 
