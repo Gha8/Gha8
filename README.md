@@ -13,10 +13,6 @@
         🚀 <b>Current Focus:</b> Designing Cloud Architectures, CI/CD pipelines & Orchestration<br>
         ⚙️ <b>Interests:</b> High Availability, GitOps workflows, Cloud Security & Microservices
       </blockquote>
-      <p>
-        • Focused on writing clean, scalable, and secure infrastructure.<br>
-        • Experienced in low-level systems (C/C++), modern web stacks, and DevOps automation.
-      </p>
     </td>
   </tr>
 </table>
