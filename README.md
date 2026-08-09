@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="center">$ ls ./skills/</h3>
+<h3 align="center">$ ls .skills/</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,nestjs,react,postgres,linux,docker,kubernetes,terraform,aws,ansible,git&theme=dark" alt="My DevOps Stack" />
