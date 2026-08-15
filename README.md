@@ -29,4 +29,6 @@
 ---
 
 
-![Mes Langages](github-languages.svg)
+<p align="center">
+  <img src="github-languages.svg" width="100%" alt="Langages">
+</p>
