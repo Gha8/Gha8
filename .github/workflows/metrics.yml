@@ -19,6 +19,7 @@ jobs:
           template: classic
           
           base: "" 
+          config_display: large
           
           config_timezone: Europe/Paris
           
