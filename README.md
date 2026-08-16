@@ -30,5 +30,5 @@
 
 
 <p align="center">
-  <img src="github-languages.svg" width="100%" alt="Langages">
+  <img src="github-languages.svg?v=1" width="100%" alt="Langages">
 </p>
