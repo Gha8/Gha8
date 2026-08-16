@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
-          template: terminal
+          template: classic
           
           base: "" 
           
@@ -30,7 +30,10 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_ignored: "roff"
 
-          plugin_habits: no
+          plugin_languages_indepth: yes
+
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_categories: programming, markup, data
 
           filename: github-languages.svg 
           committer_message: "chore: update languages metrics [skip ci]"
