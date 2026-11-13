@@ -24,7 +24,8 @@
 <h3 align="center">$ ls skills/</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,symfony,mysql,redis,gitlab,c,cpp,java,py,ts,react,linux,docker,kubernetes,terraform,aws,ansible,git&theme=dark" alt="My DevOps Stack" />
+  <img src="https://skillicons.dev/icons?i=php,symfony,mysql,postgres,redis,c,cpp,java,py,ts,react,nodejs&theme=dark" alt="Stack Line 1" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,aws,gitlab,git,nginx,bash,grafana,prometheus&theme=dark" alt="Stack Line 2" />
 </p>
 
 ---
