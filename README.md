@@ -1,9 +1,9 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="left" width="200" valign="top">
+    <td align="left" width="200" valign="middle">
       <img src="https://64.media.tumblr.com/eb0ff3d510cd1c6397b7cd8ec0a78a32/3f205e2cdfbaa58c-57/s1280x1920/c7d7191fff01c98d99b2ee3f88fe8511330c3d4b.gif" alt="coding-gif" width="200" style="border-radius: 10px;" />
     </td>
-    <td align="left" valign="top">
+    <td align="centre" valign="top">
       <h1 style="font-family: 'Fira Code', monospace; color: #00bfff;">Software & DevOps Engineer</h1>
       <p>
         Building production systems from first principles — from backend workflows and containerization to cluster architecture.<br>
